@@ -9,7 +9,7 @@ body{
 
 .hight{
     height: 100vh;
-    background-image: url(/imagesTQ/1.jpg);
+    background-image: url(../imagesTQ/1.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
